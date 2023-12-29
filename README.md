@@ -1,6 +1,6 @@
 ## 3D web app using three.js
 
-install package
+### install package
 
 `npm init -y`
 
@@ -10,4 +10,6 @@ install package
 
 `npm install dat.gui`
 
-run `parcel ./src/index.html`
+### run application
+
+`parcel ./src/index.html`
